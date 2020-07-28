@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="github gif.gif"> 
+<img src="https://raw.githubusercontent.com/waggot/waggot/master/github%20gif.gif"> 
